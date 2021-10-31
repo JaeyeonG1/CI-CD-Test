@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "694675934541",
+    "project_id": "ci-cd-test-616bd",
+    "storage_bucket": "ci-cd-test-616bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694675934541:android:48756501359a096a9e7b04",
+        "android_client_info": {
+          "package_name": "com.tambi.cicdtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "694675934541-rmuo2c5e7qoqe4tq26gmrkf019acfbkk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxaXFAp4OBgB35ZNehExAIRpR1A_Yjw68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "694675934541-rmuo2c5e7qoqe4tq26gmrkf019acfbkk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
