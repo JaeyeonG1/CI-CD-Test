@@ -12,5 +12,6 @@ class MainActivity : AppCompatActivity() {
 
     fun hi() {
         Log.d("this", "hi")
+        Log.d("this", "hi")
     }
 }
